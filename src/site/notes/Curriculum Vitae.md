@@ -10,17 +10,9 @@ This is the left block.
 This is the right block.  
 ```
 
+> --- start-multi-column: A_unique_region_ID\
 
-> [!col]
-> A col callout
->
-> Second column of the callout
-
-
-| ![[image.png\|97]] | # Ahmet Ali Bağcı |
-| ------------------ | ----------------- |
-|                    |                   |
-|                    |                   |
+![image.png](/img/user/image.png)
 
 <center>EDUCATİON</center>
  
