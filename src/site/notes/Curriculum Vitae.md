@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/curriculum-vitae/","tags":["gardenEntry"]}
 ---
 
-```columns
-id: E28e1WGgMdHCO5JBuYNcJ
-===
-Ahmet Ali Bağcı
-
-===
-Column 2
-
+```horizontal  
+### Block 1  
+This is the left block.  
+---
+### Block 2  
+This is the right block.  
 ```
+
+> [!thingscolor] **Education**
 
