@@ -10,7 +10,13 @@ This is the left block.
 This is the right block.  
 ```
 
-![image.png](/img/user/image.png) 
+
+| ![image.png](/img/user/image.png) | Ahmet Ali Bağcı |
+| -------------- | --------------- |
+|                |                 |
+
+
+ 
 
 > [!thingscolor] **Education**
 
