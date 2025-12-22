@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/004-notlar/diplomasi-akademisi-tuerk-devletleri-teskilati-sunumu/","tags":["durum/bütün","tür/sunum","gardenEntry"]}
 ---
 
-# Diplomasi Akademisi Türk Devletleri Teşkilatı Sunumu
+
 
 ```ad-thingscolor
 title: # <font color="#4C8CE6">TÜRK DEVLETLERİ TEŞKİLATI</font>
