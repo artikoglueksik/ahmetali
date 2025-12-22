@@ -11,9 +11,16 @@ This is the right block.
 ```
 
 
-| ![image.png](/img/user/image.png) | Ahmet Ali Bağcı |
-| -------------- | --------------- |
-|                |                 |
+> [!col]
+> A col callout
+>
+> Second column of the callout
+
+
+| ![[image.png\|97]] | # Ahmet Ali Bağcı |
+| ------------------ | ----------------- |
+|                    |                   |
+|                    |                   |
 
 <center>EDUCATİON</center>
  
