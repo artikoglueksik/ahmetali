@@ -15,7 +15,7 @@ This is the right block.
 | -------------- | --------------- |
 |                |                 |
 
-
+<center>EDUCATİON</center>
  
 
 > [!thingscolor] **Education**
