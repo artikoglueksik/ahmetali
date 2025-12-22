@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/004-notlar/diplomasi-akademisi-tuerk-devletleri-teskilati-siyasi-tarih-calismasi/","tags":["tür/çalışma","durum/bütün","gardenEntry"]}
+{"dg-publish":true,"permalink":"/004-notlar/diplomasi-akademisi-tuerk-devletleri-teskilati-siyasi-tarih-calismasi/","tags":["tür/çalışma","durum/bütün"]}
 ---
+
+# Diplomasi Akademisi Türk Devletleri Teşkilatı Siyasi Tarih Çalışması
 
 **Rapor:** [[004 Notlar/Diplomasi Akademisi Uluslararası Örgütler Türk Devletleri Teşkilatı Raporu\|Diplomasi Akademisi Uluslararası Örgütler Türk Devletleri Teşkilatı Raporu]]
 
