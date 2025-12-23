@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/curriculum-vitae/","tags":["gardenEntry"]}
 ---
 
-
-<iframe src="/img/user/Ahmet%20Ali%20Ba%C4%9Fc%C4%B1%20CV-English.pdf" width="100%" height="900px" title="Ahmet Ali Bağcı CV-English.pdf" style="border:1px solid #ccc;"></iframe>
-
-<center>EDUCATİON</center>
- 
-
 > [!thingscolor] **Education**
 
 - Kartal Anatolian Imam-Hatip High School, 2018-2023
